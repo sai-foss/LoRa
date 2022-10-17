@@ -5,5 +5,7 @@ Dependency: https://github.com/josephpal/esp32-Encrypt we will need this reposit
 Prerequisites: 2 LoRa32 boards: 2 ESP32 boards with an attached antenna, LoRa module and oled display each.
 
 There are 2 ways to see the i/o:
+
 Serial i/o (using Bluetooth or Arduino console)
+
 Oled display
